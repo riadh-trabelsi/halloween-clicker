@@ -1,5 +1,8 @@
 <<<<<<< HEAD
-![Banner -CookieClicker](/images/CookieClicker%20-Banner.png)
+![Banner -CookieClicker1](/images/CookieClicker%20-Banner.png)
+![Banner -CookieClicker2](/images/halloween1.png)
+![Banner -CookieClicker3](/images/halloween2.png)
+![Banner -CookieClicker4](/images/Responsive.jpg)
 # Preview
 
 - [Live demo](https://yvessoham.github.io/Javascript/)
@@ -60,13 +63,9 @@ To update your local git directory:
     Uploads all local branch commits to the remote.
 
 
-# Contributors
-We are 4 enthusiastic junior developers in training at [Becode](becode.org/). Find more about us on our Github pages :
-- [yvessoham](https://github.com/yvessoham)
+# Contributor
+I'm enthusiastic junior developers in training at [Becode](becode.org/). Find more about me on our Github pages :
 - [riadh-trabelsi](https://github.com/riadh-trabelsi)
-- [Pressy444](https://github.com/Pressy444/)
-- [washupo](https://github.com/washupo/)
-
 # Credits
 - [Background video](https://pixabay.com/fr/videos/citrouilles-for%C3%AAt-la-terreur-fonc%C3%A9-181881/) - Pixabay
 - [Pumpkin button](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-biscuit-orange-chocolat-8170183/) - Pixabay
