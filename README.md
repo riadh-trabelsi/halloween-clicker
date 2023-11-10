@@ -1,14 +1,11 @@
-<<<<<<< HEAD
+
 ![Banner -CookieClicker1](/images/CookieClicker%20-Banner.png)
 ![Banner -CookieClicker2](/images/halloween1.png)
 ![Banner -CookieClicker3](/images/halloween2.png)
 ![Banner -CookieClicker4](/images/Responsive.jpg)
 # Preview
 
-- [Live demo](https://yvessoham.github.io/Javascript/)
-# Instructions
-To improve our JavaScript skills, we have 5 days to create a cookie clicker game as a team. 
-- [Instructions links](https://github.com/becodeorg/Swartz-8/blob/main/2.The-Hill/1.Javascript/cookieClicker.md)
+- [Live demo]( https://riadh-trabelsi.github.io/halloween-clicker/)
 
 # Languages and frameworks used 
 - HTML5, CSS3
@@ -62,11 +59,4 @@ To update your local git directory:
 4. `git push` 
     Uploads all local branch commits to the remote.
 
-
-# Contributor
-I'm enthusiastic junior developers in training at [Becode](becode.org/). Find more about me on our Github pages :
-- [riadh-trabelsi](https://github.com/riadh-trabelsi)
-# Credits
-- [Background video](https://pixabay.com/fr/videos/citrouilles-for%C3%AAt-la-terreur-fonc%C3%A9-181881/) - Pixabay
-- [Pumpkin button](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-biscuit-orange-chocolat-8170183/) - Pixabay
 
